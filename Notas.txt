@@ -1,0 +1,9 @@
+
+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
+
+git clone https://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:x-oauth-basic@github.com/juniorfrey/node-sequelize.git
+
+https://github.com/juniorfrey/node-sequelize.git
+
+/* "ssl":true,
+    "dialectOptions": { "ssl": {"require":true} } */

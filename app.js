@@ -13,6 +13,6 @@ app.get('/', (pet, res) => {
 });
 
 // servidor corriendo en puerto 3000
-app.listen(5000, (pet, res) => {
+app.listen(6000, (pet, res) => {
     console.log('SERVIDOR CORRIENDO');
 });
